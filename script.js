@@ -6,6 +6,7 @@ $(document).ready(function(){
 			$("#lightning").hide();
         } else{
         	$("#lightning").show();
+		$("#pika").hide();
         } 
         show=!show
         console.log("hello")
